@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Maslooh</h1>
 <h3 align="center">A passionate full stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on **.net and Angular projects**
-
-- 🌱 I’m currently learning **Angular, ASP core api**
+- 🔭 I’m currently working on **.NET and Angular projects**
 
 - 📫 How to reach me **ahmedmaslooh17@gmail.com**
 
